@@ -1,3 +1,8 @@
+![Node.js](https://img.shields.io/badge/Node.js-v18+-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+
+
 # 🔐 ETH Wallet Recovery Tool — by Adhyayan Maini
 
 This is a high-speed, Node.js-powered wallet scanner built for **mnemonic recovery, address syncing, and educational blockchain development**.
