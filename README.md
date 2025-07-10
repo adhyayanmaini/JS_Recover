@@ -1,4 +1,4 @@
-# 🔐 ETH Wallet Recovery Tool — by @richmfspectrix
+# 🔐 ETH Wallet Recovery Tool — by Adhyayan Maini
 
 This is a high-speed, Node.js-powered wallet scanner built for **mnemonic recovery, address syncing, and educational blockchain development**.
 
